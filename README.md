@@ -1,3 +1,3 @@
-# bimm143
-Bioinformatics Class
-This repo is for my UCSD bioinformatics class.
+# Bimm143
+
+Classwork for BIMM143 Fall 24 at UC San Diego
